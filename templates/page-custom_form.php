@@ -16,10 +16,6 @@ get_header();
     <input type="text" class="form-control" id="name" name="name">
  </div>
   <div class="form-group">
-    <label for="email">Email address:</label>
-    <input type="email" class="form-control" id="email" name="email">
-  </div>
-  <div class="form-group">
   <label for="email">Select image to upload:</label>
   <input type="file" name="fileToUpload" id="fileToUpload">
   </div>
