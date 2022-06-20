@@ -3,7 +3,7 @@
  * Plugin Name: Demo Plugin
  * Plugin URI: https://codelord.co.in
  * Description: Let's you add custom fields details to the database
- * Version: 1.1
+ * Version: 1.2
  * Author: Amit Verma
  * Author URI: https://codelord.co.in
  */
